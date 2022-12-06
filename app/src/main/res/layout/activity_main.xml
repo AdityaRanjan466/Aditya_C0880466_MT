@@ -58,6 +58,7 @@
         android:id="@+id/edtxt_dailyrent"
         android:layout_margin="20dp"
         android:hint="Daily Rent"
+        android:editable="false"
         android:ems="13"/>
 
     <LinearLayout

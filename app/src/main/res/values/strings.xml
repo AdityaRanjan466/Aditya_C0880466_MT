@@ -1,13 +1,12 @@
 <resources>
     <string name="app_name">CarRentService</string>
     <string-array name="caroptionsarray">
-        <item>choose a car</item>
+        <item>Select</item>
         <item>BMW</item>
         <item>Audi</item>
         <item>Cadillac</item>
         <item>Volks Wagon</item>
         <item>Mercedes</item>
-        <item>Cadillac</item>
         <item>Peugeot</item>
         <item>Ford</item>
     </string-array>
